@@ -1,3 +1,9 @@
+#vim
+*.swp
+
+#ignore generated eps file
+*.eps
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
